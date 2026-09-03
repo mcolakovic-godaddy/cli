@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.13](https://github.com/godaddy/cli/compare/v0.2.12...v0.2.13) (2026-09-03)
+
+
+### Bug Fixes
+
+* **api-catalog:** resync spec drift and test the whole workspace in CI ([#241](https://github.com/godaddy/cli/issues/241)) ([efe8749](https://github.com/godaddy/cli/commit/efe8749a93f038435820fb63387d038a64c7770b))
+
 ## [0.2.12](https://github.com/godaddy/cli/compare/v0.2.11...v0.2.12) (2026-09-01)
 
 
